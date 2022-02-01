@@ -1,6 +1,6 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A simple nestjs application that stores and retrieves messages stored in an internal json file.
 
 ## Installation
 
